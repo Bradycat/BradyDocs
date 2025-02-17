@@ -22,4 +22,8 @@
         <description>Created after removal of "Empty XML Topic" from Bradycat</description>
         <accepts>Empty-XML-Topic.html</accepts>
     </rule>
+    <rule id="3f3adc7d">
+        <description>Created after removal of "Casino" from Bradycat</description>
+        <accepts>Casino.html</accepts>
+    </rule>
 </rules>
