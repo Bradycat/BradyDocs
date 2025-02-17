@@ -4,9 +4,9 @@
 
 <instance-profile id="hi"
                  name="Bradycat"
-                 start-page="Empty-MD-Topic.md">
+                 start-page="Welcome.md">
 
-    <toc-element topic="Empty-MD-Topic.md"/>
+    <toc-element topic="Welcome.md"/>
     <toc-element topic="How-to-setup.md">
         <toc-element topic="setlanguage.md"/>
         <toc-element topic="setupcommands.md">

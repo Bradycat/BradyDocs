@@ -3,7 +3,22 @@
 <buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-    <variables></variables>
+    <variables>
+        <primary-color>blueberry</primary-color>
+        <custom-favicons>BradyCatNewLogo3101Transparent.png</custom-favicons>
+        <header-logo>BradyCatNewLogo3101Transparent.png</header-logo>
+
+        <download-title>Add our Bot!</download-title>
+        <download-page>https://discord.com/api/oauth2/authorize?client_id=995992203518287932&permissions=8&scope=bot%20applications.commands</download-page>
+        <showDownloadButton>true</showDownloadButton>
+    </variables>
+    <footer>
+        <copyright>2025 Bradycat</copyright>
+        <link href="https://blog.bradycat.de">Blog</link>
+        <link href="https://bradycat.de/imprint.html">Imprint</link>
+        <link href="https://bradycat.de/privacy.html">Privacy</link>
+        <link href="https://discord.bradycat.de">Support</link>
+    </footer>
     <build-profile instance="hi">
         <variables>
             <noindex-content>false</noindex-content>
