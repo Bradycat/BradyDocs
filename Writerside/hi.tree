@@ -11,6 +11,18 @@
         <toc-element topic="setlanguage.md"/>
         <toc-element topic="setupcommands.md">
             <toc-element topic="LevelSystem.md"/>
+            <toc-element toc-title="Ticket System"/>
+            <toc-element toc-title="Autorole on Join"/>
+            <toc-element toc-title="Verify System"/>
+            <toc-element toc-title="Guessnumber"/>
+            <toc-element toc-title="Giveaway (Only Setup)"/>
+            <toc-element toc-title="Autorole on Join"/>
+            <toc-element toc-title="GuildActions"/>
+            <toc-element toc-title="Minecraft (Only Setup)"/>
+            <toc-element toc-title="Radio"/>
+            <toc-element toc-title="Suggestions System"/>
+            <toc-element toc-title="Private Voice Channel"/>
+            <toc-element toc-title="Welcome"/>
         </toc-element>
         <toc-element topic="enablefeature.md">
             <toc-element topic="YouTube-and-Twitch-Command.md"/>
@@ -20,5 +32,8 @@
             <toc-element topic="Qout.md"/>
             <toc-element topic="Counting-Game.md"/>
         </toc-element>
+    </toc-element>
+    <toc-element topic="Features.md">
+        <toc-element topic="Minecraft.md"/>
     </toc-element>
 </instance-profile>
