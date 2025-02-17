@@ -35,5 +35,6 @@
     </toc-element>
     <toc-element topic="Features.md">
         <toc-element topic="Minecraft.md"/>
+        <toc-element topic="Giveaway.md"/>
     </toc-element>
 </instance-profile>
