@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="65e4495e">
+        <description>Created after removal of "Library of snippets" from Help Instance</description>
+        <accepts>lib.html</accepts>
+    </rule>
+    <rule id="65cadc00">
+        <description>Created after removal of "CityGuessr" from Bradycat</description>
+        <accepts>CityGuessr.html</accepts>
+    </rule>
+    <rule id="64c0d7a8">
+        <description>Created after removal of "Welcome to the Bradycat Bot!Vorlage" from Bradycat</description>
+        <accepts>Default-topic.html</accepts>
+    </rule>
+    <rule id="6de1d02c">
+        <description>Created after removal of "Empty XML Topic" from Bradycat</description>
+        <accepts>Empty-XML-Topic.html</accepts>
+    </rule>
+</rules>
