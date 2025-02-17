@@ -5,7 +5,7 @@
         <warning>
         The feature is currently still in closed beta
         </warning>
-        <procedure title="" id="youtube">
+        <procedure title="" id="youtubeprocedure">
             <step>
                 <p>First enter <code>/enablefeature youtube</code>.</p>
             </step>
@@ -34,7 +34,7 @@
         </chapter>
     </tab>
     <tab id="twitch" title="Twitch">
-        <procedure title="" id="twitch">
+        <procedure title="" id="twitchprocedure">
             <step>
                 <p>First enter <code>/enablefeature twitch</code>.</p>
             </step>
@@ -47,7 +47,7 @@
         <chapter title="/twitch adduser" id="twitchadduser" collapsible="true">
             <p>Since the bot cannot guess which users it should stalk, you must add them with this command.</p>
             <warning>
-                It is important that you use the username of the user, otherwise it will not find the user.<br>
+                It is important that you use the username of the user, otherwise it will not find the user.<br/>
                 https://twitch.tv/flashbassfm (The username is flashbassfm)
             </warning>
         </chapter>
