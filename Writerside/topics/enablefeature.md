@@ -6,5 +6,5 @@ These commands usually contain the features that have to set up their own comman
 <a href="CityGuessrChild.md"></a> <br/>
 <a href="Casino-Games.md"></a> <br/>
 <a href="Economy-System.md"></a> <br/>
-<a href="Qout.md"></a> <br>
+<a href="Qout.md"></a> <br/>
 <a href="Counting-Game.md"></a> <br/>
