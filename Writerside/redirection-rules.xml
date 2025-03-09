@@ -26,4 +26,12 @@
         <description>Created after removal of "Casino" from Bradycat</description>
         <accepts>Casino.html</accepts>
     </rule>
+    <rule id="530ef81e">
+        <description>Created after removal of "Empty XML Topic" from Bradycat</description>
+        <accepts>Empty-XML-Topic.html</accepts>
+    </rule>
+    <rule id="3403281">
+        <description>Created after removal of "I can`t Login to dashboard" from Bradycat</description>
+        <accepts>Empty-MD-Topic.html</accepts>
+    </rule>
 </rules>

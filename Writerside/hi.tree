@@ -42,4 +42,9 @@
         <toc-element toc-title="Casino"/>
         <toc-element toc-title="Counting"/>
     </toc-element>
+    <toc-element toc-title="Dashboard">
+        <toc-element topic="I-can-t-Login-to-dashboard.md"/>
+        <toc-element topic="Why-was-my-serverlist-entry-rejected-or-deleted.md"/>
+        <toc-element topic="Create-message-via-panel-does-not-work.md"/>
+    </toc-element>
 </instance-profile>
