@@ -34,4 +34,12 @@
         <description>Created after removal of "I can`t Login to dashboard" from Bradycat</description>
         <accepts>Empty-MD-Topic.html</accepts>
     </rule>
+    <rule id="45065130">
+        <description>Created after removal of "Label" from Bradycat</description>
+        <accepts>Label.html</accepts>
+    </rule>
+    <rule id="1a08a178">
+        <description>Created after removal of "Topic title" from Bradycat</description>
+        <accepts>test.html</accepts>
+    </rule>
 </rules>

@@ -1,6 +1,5 @@
 # I can`t Login to dashboard
 
-
 <h1>Rejected Cookies</h1>
 <p>You seem to have landed here because you can't log in to the dashboard, this can have many reasons.</p>
 <p>The first possible reason may be that you rejected the cookies when you first entered the site, which prevents you from logging in.</p>

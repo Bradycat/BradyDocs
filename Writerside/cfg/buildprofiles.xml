@@ -9,8 +9,11 @@
         <header-logo>BradyCatNewLogo3101Transparent.png</header-logo>
 
         <download-title>Add our Bot!</download-title>
-        <download-page>https://discord.com/api/oauth2/authorize?client_id=995992203518287932&permissions=8&scope=bot%20applications.commands</download-page>
+        <download-page>https://discord.com/api/oauth2/authorize?client_id=995992203518287932&permissions=8&scope=bot%20applications.commands/</download-page>
         <showDownloadButton>true</showDownloadButton>
+        <feedback-widget>true</feedback-widget>
+        <locale-code>en</locale-code>
+        <feedback-url>https://bradycat.de/</feedback-url>
     </variables>
     <footer>
         <copyright>2025 Bradycat</copyright>
