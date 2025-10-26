@@ -8,4 +8,10 @@ If you want to re-add it for your experiments, click + to create a new topic, ch
 ## Become a Bradycat pro!
 With our detailed docs you will quickly become a Bradycat Bot pro!
 
-<warning>Note that these are still under construction</warning>
+<warning xmlns="">Note that these are still under construction</warning>
+<warning>This bot is still available, we are currently taking a break.
+
+But don't worry, the bot continues to run reliably, and we will fix any serious bugs if necessary.
+
+This doesn't mean we won't be working on it again, so don't worry.
+</warning>
