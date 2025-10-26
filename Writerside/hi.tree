@@ -36,7 +36,7 @@
     <toc-element topic="Features.md">
         <toc-element topic="Minecraft.md"/>
         <toc-element topic="Giveaway.md"/>
-        <toc-element toc-title="Custom Commands"/>
+        <toc-element topic="Custom-Commands.md"/>
         <toc-element toc-title="Private Voicechannel"/>
         <toc-element toc-title="CityGuessr"/>
         <toc-element toc-title="Casino"/>
