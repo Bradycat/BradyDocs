@@ -3,7 +3,8 @@
 <tabs>
     <tab id="youtube" title="YouTube">
         <warning>
-        The feature is currently still in closed beta
+        This feature is disabled because it needs our new Dashboard to work.
+        But the Dashboard is still in development.
         </warning>
         <procedure title="" id="youtubeprocedure">
             <step>
