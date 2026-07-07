@@ -43,9 +43,25 @@
         <toc-element toc-title="Counting"/>
     </toc-element>
     <toc-element topic="Bot-Dashboard-Overview.md">
+        <toc-element topic="Personal-Dashboard.md"/>
+        <toc-element topic="Server-Overview.md"/>
         <toc-element topic="Server-List.md"/>
         <toc-element topic="Create-Message-Panel.md"/>
-        <toc-element topic="Guild-Settings-and-Modules.md"/>
+        <toc-element topic="Guild-Settings-and-Modules.md">
+            <toc-element topic="Level-System-Module.md"/>
+            <toc-element topic="Suggestions-Module.md"/>
+            <toc-element topic="Games-Module.md"/>
+            <toc-element topic="Radio-Module.md"/>
+            <toc-element topic="Welcome-Messages-Module.md"/>
+            <toc-element topic="Logging-Module.md"/>
+            <toc-element topic="Voice-Channels-Module.md"/>
+            <toc-element topic="Tickets-Module.md"/>
+            <toc-element topic="Autorole-and-Verify-Module.md"/>
+            <toc-element topic="Giveaway-Module.md"/>
+            <toc-element topic="Socials-Module.md"/>
+            <toc-element topic="Custom-Commands-Module.md"/>
+            <toc-element topic="Security-Module.md"/>
+        </toc-element>
         <toc-element topic="I-can-t-Login-to-dashboard.md"/>
         <toc-element topic="Why-was-my-serverlist-entry-rejected-or-deleted.md"/>
         <toc-element topic="Create-message-via-panel-does-not-work.md"/>

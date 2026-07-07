@@ -12,10 +12,10 @@ The Dashboard is the general web panel for managing Bradycat on your server - se
 </procedure>
 
 <note>
-Everything in the Dashboard checks your actual Discord permissions on that server (via <code>is_user_admin_in_guild</code>) - there's no separate role system to configure like in Team-Panel. If you're an admin on Discord, you're an admin here.
+Everything in the Dashboard checks your actual Discord admin permissions on that server - there's no separate role system to configure like in Team-Panel. If you're an admin on Discord, you're an admin here.
 </note>
 
-From your server's dashboard you can:
+From your <a href="Personal-Dashboard.md">personal dashboard</a>, opening a server takes you to its <a href="Server-Overview.md">overview page</a>, from where you can:
 
 - <a href="Server-List.md">Manage your Server List entry</a> - the public listing for your Discord server
 - <a href="Create-Message-Panel.md">Build and send messages/embeds</a> to a channel without typing a command
