@@ -1,8 +1,12 @@
 # What is Team-Panel?
 
-Team-Panel (also called the Dashboard) is the web interface for managing your Discord server alongside the bot. Instead of typing slash commands for everything, you get a proper overview: roles, boards, a wiki, calendar, meetings, absences and more, all in one place.
+<warning>
+Team-Panel is currently in closed beta and not available to everyone yet. Everything below describes how it works for servers that already have access.
+</warning>
 
-<tip>You reach it at <a href="https://beta.bradycat.de">beta.bradycat.de</a>, logged in via Discord.</tip>
+Team-Panel is a collaborative workspace for your team, built into the Dashboard: roles, boards, a wiki, calendar, meetings, absences and more, all in one place instead of scattered across Discord channels.
+
+<tip>You reach it at <a href="https://beta.bradycat.de">beta.bradycat.de</a>, logged in via Discord, once your server has been given access to the beta.</tip>
 
 Every server (we call it a **Team** internally) gets its own panel once the bot is added and someone with the right Discord permissions sets it up. From there you decide who on your team can see or edit what, using roles and permissions - similar to Discord's own role system, but scoped to what happens inside the panel.
 

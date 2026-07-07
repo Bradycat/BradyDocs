@@ -1,5 +1,9 @@
 # Getting Started with Team-Panel
 
+<warning>
+Team-Panel is closed beta right now. If your server hasn't been given access yet, you won't see it - see <a href="What-is-Team-Panel.md"/>.
+</warning>
+
 <procedure title="Logging in for the first time">
     <step>
         <p>Go to <a href="https://beta.bradycat.de">beta.bradycat.de</a> and click <b>Login</b>.</p>
