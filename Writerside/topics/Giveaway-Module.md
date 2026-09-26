@@ -3,6 +3,6 @@
 Configure under **Settings > Giveaway**:
 
 - **Enable/disable** the module.
-- **Giveaway Manager role** - who is allowed to create, reroll, delete and end giveaways using the giveaway commands.
+- **Manager role** - who is allowed to create, end, reroll, delete and list giveaways. Members with the <b>Manage Server</b> permission can always do this.
 
-The commands themselves (creating a giveaway, rerolling a winner, ending one early, listing active giveaways) are still used through Discord slash commands - this settings page only controls who's allowed to use them.
+The giveaways themselves are created and managed with the <code>/giveaway</code> commands in Discord - this settings page only controls whether the system is on and who's allowed to use them. See <a href="Giveaway.md"/>.

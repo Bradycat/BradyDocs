@@ -1,6 +1,7 @@
 # Radio
 
-Lets the bot join a voice channel and stream an internet radio station. Configure under **Settings > Radio**.
+<warning>
+The radio is temporarily disabled. Keeping it running in its current form took too much effort for what it offered, so we switched it off for now. Maybe something new is coming in the future.
+</warning>
 
-- **Enable/disable**, pick the **voice channel** to stream into, and choose a station from the built-in list.
-- **laut.fm notifications** - a separate feature that posts a message when a specific laut.fm stream starts playing a song matching names you configure (e.g. an artist you follow). Set a notification channel and the list of names to watch for.
+The same applies to the <b>Laut.FM notifications</b>: the option still shows up in <code>/enablefeature</code>, but it has no effect at the moment.

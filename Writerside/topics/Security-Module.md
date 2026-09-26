@@ -1,21 +1,26 @@
 # Security
 
-Automated protection against spam bots and malicious accounts. Configure under **Settings > Security**.
+Automated protection against spam bots and scam accounts. Configure under **Settings > Security**.
 
 ## Honeypot
 
-A hidden channel that real members never interact with. Anyone who posts in it is almost certainly a bot or a scam account, so the bot takes action automatically:
+A trap channel that real members have no reason to write in. Spam bots and scam accounts often post in every channel they can find - so anyone who writes in the honeypot channel is treated as one. The bot deletes the message and takes action automatically.
 
+- **Enable/disable** the honeypot protection.
 - **Honeypot channel** - the trap channel itself.
-- **Action** - what happens to the account that triggers it (e.g. ban or kick).
-- **Message deletion** - how many days of that account's messages get deleted along with the action (0-7 days).
-- **Kick delete mode** - when the action is a kick, whether only the message that triggered the honeypot gets deleted, or a wider cleanup happens.
-- **Custom DM message** - a message sent to the user before the action is taken, if you want to explain why.
+- **Action** - <b>Ban</b> or <b>Kick</b>.
+- **Delete messages from the past** - for a ban: how many days of that account's messages get deleted as well (0-7 days).
+- **Message deletion scope** - for a kick: delete only the message that triggered the honeypot, or all messages the account wrote today in every channel. Kicked accounts can join again.
+- **DM to user** - a message sent to the account before the action is taken, if you want to explain why. Use <code>{name}</code> and <code>{guild}</code> as placeholders.
 
-## Logging
+<warning>
+The honeypot reacts to <b>everyone</b> who writes in the channel - moderators and admins included. Make it clear in the channel (e.g. with the status message below) that nobody should write there.
+</warning>
 
-- **Log channel** - where security actions (bans/kicks triggered by the honeypot) get reported, separate from the general <a href="Logging-Module.md">Logging module</a>.
+## Log channel
+
+- **Log channel** (optional) - where every ban or kick by the honeypot gets reported, separate from the general <a href="Logging-Module.md">Logging module</a>.
 
 ## Status message
 
-You can also post a status embed showing the current security configuration to a channel, useful as a quick reference or for transparency with your moderation team.
+You can post a status message in the honeypot channel - for example a warning not to write there, together with the number of accounts caught so far. Write <code>{count}</code> in a text block to show that number. The bot updates the message automatically every time the honeypot is triggered. You can also reset the counter.
